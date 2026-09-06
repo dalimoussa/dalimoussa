@@ -1,7 +1,7 @@
 # Hey, I'm Mohamed Ali Benmoussa 🛡️
 
 **Software Engineer & Independent Security Researcher**  
-**Python AI Engineer | Building systems that actually scale**
+
 
 ---
 
